@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "playwright": "^1.48.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5"
+  },
+  "scripts": {},
+  "name": "connectere-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

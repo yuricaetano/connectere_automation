@@ -1,0 +1,72 @@
+[
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "HERBICIDA",
+    "nome": "produtoX",
+    "unidade_medida": "Litro",
+    "descricao": "teste"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "HERBICIDA",
+    "nome": "produtoY",
+    "unidade_medida": "Litro",
+    "descricao": "teste 2"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "HERBICIDA",
+    "nome": "produtoZ",
+    "unidade_medida": "Litro",
+    "descricao": "teste 3"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "FUNGICIDA",
+    "nome": "produtoA",
+    "unidade_medida": "Litro",
+    "descricao": "teste 4"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "FUNGICIDA",
+    "nome": "produtoB",
+    "unidade_medida": "Litro",
+    "descricao": "teste 5"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "INSETICIDA",
+    "nome": "produtoC",
+    "unidade_medida": "Kilograma",
+    "descricao": "teste 6"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "INSETICIDA",
+    "nome": "produtoD",
+    "unidade_medida": "Kilograma",
+    "descricao": "teste 7"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "FERTILIZANTE",
+    "nome": "produtoE",
+    "unidade_medida": "Kilograma",
+    "descricao": "teste 8"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "FERTILIZANTE",
+    "nome": "produtoF",
+    "unidade_medida": "Kilograma",
+    "descricao": "teste 9"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "HERBICIDA",
+    "nome": "produtoG",
+    "unidade_medida": "Kilograma",
+    "descricao": "teste 10"
+  }
+]
