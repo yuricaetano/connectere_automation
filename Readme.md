@@ -5,7 +5,7 @@ Este projeto utiliza o **Playwright** com **JavaScript** e **Yarn** (ou **Node.j
 ## 🚀 Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução do JavaScript
-- **Yarn**: Gerenciador de pacotes
+- **Yarn** ou **Node**: Gerenciador de pacotes
 - **Playwright**: Para testes automatizados de aplicações web
 - **Excel**: Para manipulação e inclusão de dados de produtos
 
@@ -17,16 +17,17 @@ Siga os passos abaixo para instalar as dependências e configurar o projeto:
    ```bash
    git clone <URL-do-repositório>
    cd nome-do-repositorio
-2. Instale as dependências usando o Yarn:
+2. Instale as dependências usando o Yarn ou Node:
 yarn install
+npm install
 
 3.Para executar os testes com Playwright:
-yarn playwright test
+yarn playwright test ou npm playwright test
 
 💻 Uso
 Para automatizar a inclusão de produtos, execute o seguinte comando:
 # Inicia a execução do script de inclusão de produtos
-yarn start
+yarn start ou npm start
 .
 
 🧪 Testes
