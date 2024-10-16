@@ -30,7 +30,7 @@ Para automatizar a inclusão de produtos, execute o seguinte comando:
 yarn start ou npm start
 .
 
-##🧪 Testes
+## 🧪 Testes
 Para rodar os testes automatizados, utilize o seguinte comando:
 # Executa todos os testes
 yarn test ou npm test
