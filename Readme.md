@@ -30,9 +30,9 @@ Para automatizar a inclusão de produtos, execute o seguinte comando:
 yarn start ou npm start
 .
 
-🧪 Testes
+##🧪 Testes
 Para rodar os testes automatizados, utilize o seguinte comando:
 # Executa todos os testes
-yarn test
+yarn test ou npm test
 
 Os testes verificarão a inclusão de produtos em conformidade com os dados fornecidos na planilha.
