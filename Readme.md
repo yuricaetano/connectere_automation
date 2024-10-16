@@ -32,7 +32,6 @@ yarn start ou npm start
 
 ## 🧪 Testes
 Para rodar os testes automatizados, utilize o seguinte comando:
-# Executa todos os testes
 yarn test ou npm test
 
 Os testes verificarão a inclusão de produtos em conformidade com os dados fornecidos na planilha.
