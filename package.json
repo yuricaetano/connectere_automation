@@ -4,12 +4,20 @@
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
-    "@playwright/test": "^1.48.0",
+    "@playwright/test": "^1.48.1", 
     "@types/node": "^22.7.5"
   },
-  "scripts": {},
+  "scripts": {
+    "start": "npx playwright test"
+  },
   "name": "connectere-automation",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

@@ -1,6 +1,7 @@
 [
   {
     "fabricante": "FABRICANTES DIVERSOS",
+<<<<<<< HEAD
     "familia": "HERBICIDA",
     "nome": "produtoX",
     "unidade_medida": "Litro",
@@ -68,5 +69,123 @@
     "nome": "produtoG",
     "unidade_medida": "Kilograma",
     "descricao": "teste 10"
+=======
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 51508555",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: T08/340"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 84240234",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: STREIGER"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 48110481",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: CASE 8230/9230"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 48142232",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: CASE 8230/T07"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 84239751",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: 7040/MENOR"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 84248043",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: 7040/MAIOR"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico A177605",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: STEIGER"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 254353A1",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 10 - COMPATIVEL: T07/PUMA"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico AN203010",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: 4730"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 47745077",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: PATRIOT 350"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 48142231",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: PATRIOT/CR"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 84523925",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: CASE 8230/9230"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 47710533",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: PLATAF. SOJA"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 47427164",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: "
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 47628830",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: T7/PUMA"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 47833564",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL:  T8/340/230"
+  },
+  {
+    "fabricante": "FABRICANTES DIVERSOS",
+    "familia": "PEÇA",
+    "nome": "Filtro Oleo Hidraulico 87272033",
+    "unidade_medida": "Unidade",
+    "descricao": "PRATELEIRA 01 POSIÇÃO 11 - COMPATIVEL: PATRIOT 350"
+>>>>>>> 91d1df4 (projeto concluido)
   }
 ]

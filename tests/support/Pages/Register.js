@@ -20,7 +20,11 @@ class Register {
   }
 
   async closeTour() {
+<<<<<<< HEAD
     await this.page.locator(this.element.buttonCloseTour).getByLabel('Close').dblclick()
+=======
+    await this.page.locator(this.element.buttonCloseTour).getByLabel('Close').click()
+>>>>>>> 91d1df4 (projeto concluido)
     // await this.page.locator(this.element.secondButtonCloseTour).click()
   }
 
@@ -51,9 +55,15 @@ class Register {
     await this.page.getByRole('treeitem', { name: familia }).click();
   }
 
+<<<<<<< HEAD
   async fillName() {
     const alias = Math.floor(Math.random() * (1000000000000 - 1 + 1)) + 1;
     await this.page.locator(this.element.name).fill('teste' + alias)
+=======
+  async fillName(nome) {
+    const alias = Math.floor(Math.random() * (1000000000000 - 1 + 1)) + 1;
+    await this.page.locator(this.element.name).fill(nome)
+>>>>>>> 91d1df4 (projeto concluido)
   }
 
   async fillGtin() {
@@ -62,11 +72,21 @@ class Register {
 
   async fillUnitOfMeasure(unidade_medida) {
     await this.page.locator(this.element.inputDropDown).getByRole('combobox').nth(2).click();
+<<<<<<< HEAD
     await this.page.getByRole('treeitem', { name: unidade_medida,  exact: true  }).click();
   }
 
   async fillDescription() {
     await this.page.locator(this.element.description).fill('Teste')
+=======
+    await this.page.waitForTimeout(2000);
+    await this.page.getByRole('treeitem', { name: unidade_medida,  exact: true  }).click();
+  }
+
+  async fillDescription(descricao) {
+    const alias = Math.floor(Math.random() * (1000000000000 - 1 + 1)) + 1;
+    await this.page.locator(this.element.description).fill(descricao)
+>>>>>>> 91d1df4 (projeto concluido)
   }
 
   async save() {
@@ -92,12 +112,17 @@ class Register {
       await this.moreProdutct()
 
       // Adicionar um tempo de espera entre submissões (opcional)
+<<<<<<< HEAD
       await this.page.waitForTimeout(1000);
+=======
+      await this.page.waitForTimeout(4000);
+>>>>>>> 91d1df4 (projeto concluido)
     }
   }
 
 }
 
+<<<<<<< HEAD
 module.exports = { Register }
 // await page.goto('https://staging.connectere.agr.br/usuarios/sign_in');
 //     await page.getByLabel('E-mail').click();
@@ -122,3 +147,6 @@ module.exports = { Register }
 //     await page.getByRole('treeitem', { name: 'Unidade' }).click();
 //     await page.getByLabel('', { exact: true }).first().click();
 //     await page.getByRole('treeitem', { name: '1 mil Sementes' }).click();
+=======
+module.exports = { Register }
+>>>>>>> 91d1df4 (projeto concluido)
