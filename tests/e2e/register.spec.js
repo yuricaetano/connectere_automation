@@ -1,12 +1,8 @@
 const { test } = require('../support/index')
 
-<<<<<<< HEAD
-test.setTimeout(200000); 
-=======
-test.setTimeout(20000000); 
->>>>>>> 91d1df4 (projeto concluido)
+test.setTimeout(2000000);
 
-const data = {
+const data ={
   emailValid: 'yuri@connectere.agr.br',
   passwordValid: '123456'
 }

@@ -29,10 +29,6 @@ module.exports = defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-<<<<<<< HEAD
-    
-=======
->>>>>>> 91d1df4 (projeto concluido)
     video: 'on',
   },
 
@@ -43,7 +39,6 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
-<<<<<<< HEAD
     {
       name: 'firefox',
       use: { ...devices['Desktop Firefox'] },
@@ -53,7 +48,6 @@ module.exports = defineConfig({
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
     },
-=======
     // {
     //   name: 'firefox',
     //   use: { ...devices['Desktop Firefox'] },
@@ -63,7 +57,6 @@ module.exports = defineConfig({
     //   name: 'webkit',
     //   use: { ...devices['Desktop Safari'] },
     // },
->>>>>>> 91d1df4 (projeto concluido)
 
     /* Test against mobile viewports. */
     // {
@@ -88,11 +81,9 @@ module.exports = defineConfig({
 
   /* Run your local dev server before starting the tests */
   // webServer: {
-<<<<<<< HEAD
   //   command: 'npm run start',
-=======
+
   //   command: 'npm run start', 
->>>>>>> 91d1df4 (projeto concluido)
   //   url: 'http://127.0.0.1:3000',
   //   reuseExistingServer: !process.env.CI,
   // },
